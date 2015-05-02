@@ -18,17 +18,15 @@ Follow bellow the steps we did do achieve what we got:
 
   For any doubts about composer please download and access https://getcomposer.org/
   
-4. Config que database.php
+4. Create the Database - run the script in db folder
 
-  >src
-   >application
-    >config
-     >database.php
-     
-     <code>
-      /*
- * Implementação do pacote Illuminate desenvolvido por Taylor Otwell [Laravel]
- */
-use Illuminate\Database\Capsule\Manager as Capsule;
-use Illuminate\Events\Dispatcher;
-     </code>
+5. Config index.php to run composer 'autoload.php' 
+
+6. Config database.php and autoload.php (run libraries 'database')
+
+7. Create Models
+
+8. Create Controller
+
+
+    
