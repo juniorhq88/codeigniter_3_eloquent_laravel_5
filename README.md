@@ -1,3 +1,6 @@
+
+
+
 # CodeIgniter_Eloquent
 CodeIgniter with Eloquent from Laravel 5 [Iluminate Pakage - Composer]
 
@@ -20,13 +23,13 @@ Follow bellow the steps we did do achieve what we got:
   
 4. Create the Database - run the script in db folder
 
-5. Config index.php to run composer 'autoload.php' 
+5. Config index.php to run composer 'autoload.php' (check the last lines)
 
 6. Config database.php and autoload.php (run libraries 'database')
 
-7. Create Models
+7. Create Models (check models folder)
 
-8. Create Controller
+8. Create Controller (check controllers folder)
 
 
     
