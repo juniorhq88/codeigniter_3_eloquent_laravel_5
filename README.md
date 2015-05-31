@@ -23,7 +23,7 @@ Follow bellow the steps we did do achieve what we got:
   
 4. Create the Database - run the script in db folder
 
-5. Config index.php to run composer 'autoload.php' (check the last lines)
+5. Config config.php to run composer use >>FCPATH . '/vendor/autoload.php';<<
 
 6. Config database.php and autoload.php (run libraries 'database')
 
