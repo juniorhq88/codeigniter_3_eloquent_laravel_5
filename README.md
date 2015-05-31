@@ -1,8 +1,9 @@
 
 
 
-# CodeIgniter_Eloquent
-CodeIgniter with Eloquent from Laravel 5 [Iluminate Pakage - Composer]
+# CodeIgniter3_Eloquent_Laravel5
+
+##CodeIgniter 3 with Eloquent from Laravel 5 [Iluminate Pakage - Composer]
 
 In this sample we kept the framework as close as possíble to it´s original package downloaded from internet.
 
