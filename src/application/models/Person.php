@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model as Eloquent;
 
 class Person extends Eloquent {
     
-    public $timestamps = true;
+    public $timestamps = false;
     protected $table = 'person';
     protected $primaryKey = 'id';
     protected $fillable = ['name'];
